@@ -8,11 +8,11 @@ export function ClosingCta() {
           gratis selama masa awal ini
         </span>
 
-        <h2 className="mt-7 font-display text-4xl font-bold uppercase leading-[0.92] tracking-tight text-paper sm:text-6xl">
+        <h2 className="mt-7 font-display text-4xl font-bold uppercase leading-[0.92] tracking-tight text-ink sm:text-6xl">
           Base kampusmu nunggu suara pertamamu.
         </h2>
 
-        <p className="mx-auto mt-5 max-w-lg text-pretty font-mono text-sm leading-relaxed text-paper/85">
+        <p className="mx-auto mt-5 max-w-lg text-pretty font-mono text-sm leading-relaxed text-ink/85">
           Selama periode awal ini, suzzl.id bisa dipakai gratis — buat, baca, dan nge-post di base kampus sepuasnya.
           Tinggal verifikasi email kampus dan kamu langsung jadi bagian dari dindingnya.
         </p>
