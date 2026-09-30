@@ -2,9 +2,9 @@ export function Nav() {
   return (
     <header className="sticky top-0 z-50 border-b-[3px] border-ink bg-paper">
       <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-4 py-3 sm:px-6">
-        <a href="#" className="font-display text-2xl font-bold tracking-tight">
-          suzzl<span className="ml-0.5 bg-accent-pink px-1 text-paper">.com</span>
-        </a>
+        <a href="#" className="flex items-center">
+  <Image src="/logo-tosca.webp" alt="suzzl" width={48} height={48} priority />
+</a>
 
         <nav className="hidden items-center gap-2 font-mono text-xs font-bold uppercase sm:flex">
           <a className="border-2 border-transparent px-3 py-2 transition-colors hover:border-ink" href="#base">
