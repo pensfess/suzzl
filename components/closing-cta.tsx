@@ -1,3 +1,4 @@
+import Image from "next/image";
 export function ClosingCta() {
   return (
     <section id="masuk" className="relative border-t-[3px] border-ink bg-accent-blue px-4 py-24 sm:px-6 sm:py-28">
@@ -43,9 +44,7 @@ export function Footer() {
   return (
     <footer className="border-t-[3px] border-ink bg-paper px-4 py-10 sm:px-6">
       <div className="mx-auto flex w-full max-w-6xl flex-col items-center justify-between gap-4 font-mono text-xs text-ink/60 sm:flex-row">
-        <span className="font-display text-base font-bold text-ink">
-          suzzl<span className="ml-0.5 bg-accent-pink px-1 text-paper">.com</span>
-        </span>
+        <Image src="/logo-tosca.png" alt="suzzl" width={40} height={40} />
         <span className="block text-center uppercase tracking-wide">Dinding suara anonim untuk tiap kampus di Indonesia.</span>
         <span>&copy; {new Date().getFullYear()} suzzl.id</span>
       </div>
