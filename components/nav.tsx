@@ -1,3 +1,4 @@
+import Image from "next/image";
 export function Nav() {
   return (
     <header className="sticky top-0 z-50 border-b-[3px] border-ink bg-paper">
