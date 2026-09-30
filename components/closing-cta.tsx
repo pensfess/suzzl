@@ -44,7 +44,7 @@ export function Footer() {
   return (
     <footer className="border-t-[3px] border-ink bg-paper px-4 py-10 sm:px-6">
       <div className="mx-auto flex w-full max-w-6xl flex-col items-center justify-between gap-4 font-mono text-xs text-ink/60 sm:flex-row">
-        <Image src="/logo-tosca.png" alt="suzzl" width={40} height={40} />
+        <Image src="/logo-tosca.webp" alt="suzzl" width={40} height={40} />
         <span className="block text-center uppercase tracking-wide">Dinding suara anonim untuk tiap kampus di Indonesia.</span>
         <span>&copy; {new Date().getFullYear()} suzzl.id</span>
       </div>
