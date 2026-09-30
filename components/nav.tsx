@@ -3,7 +3,7 @@ export function Nav() {
     <header className="sticky top-0 z-50 border-b-[3px] border-ink bg-paper">
       <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-4 py-3 sm:px-6">
         <a href="#" className="font-display text-2xl font-bold tracking-tight">
-          suzzl<span className="ml-0.5 bg-accent-pink px-1 text-paper">.id</span>
+          suzzl<span className="ml-0.5 bg-accent-pink px-1 text-paper">.com</span>
         </a>
 
         <nav className="hidden items-center gap-2 font-mono text-xs font-bold uppercase sm:flex">
