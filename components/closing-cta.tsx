@@ -1,7 +1,7 @@
 import Image from "next/image";
 export function ClosingCta() {
   return (
-    <section id="masuk" className="relative border-t-[3px] border-ink bg-accent-blue px-4 py-24 sm:px-6 sm:py-28">
+    <section id="masuk" className="relative border-t-[3px] border-ink bg-accent-cyan px-4 py-24 sm:px-6 sm:py-28">
       <div className="relative mx-auto w-full max-w-3xl text-center">
         <span className="brutal-sm inline-flex items-center gap-2 bg-paper px-4 py-1.5 font-mono text-[0.7rem] font-bold uppercase tracking-wider">
           <span className="blink size-2 bg-accent-pink" />
