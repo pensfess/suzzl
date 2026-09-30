@@ -10,7 +10,7 @@ const steps = [
     step: '02',
     title: 'Yang abu-abu diserahkan ke admin manusia',
     body: 'Kalau AI ragu, post masuk antrean admin manusia. Konteks, sindiran, kasus sensitif — diputus orang, bukan tebakan mesin.',
-    tag: 'ditinjau manusia',
+    tag: 'manual',
     color: 'bg-accent-pink text-paper',
   },
 ]
